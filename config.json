@@ -1,0 +1,25 @@
+{
+  "maintenance": false,
+  "version": "1.0",
+  "message": "🚀 Sistem baru siap",
+  "mode": "dark",
+
+  "theme": {
+    "dark": {
+      "primary": "#38bdf8",
+      "secondary": "#2563eb",
+      "background": "#020617",
+      "accent": "#f43f5e"
+    },
+    "light": {
+      "primary": "#2563eb",
+      "secondary": "#38bdf8",
+      "background": "#f8fafc",
+      "accent": "#dc2626"
+    }
+  },
+
+  "features": {
+    "themeToggle": true
+  }
+}
