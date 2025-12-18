@@ -1,7 +1,7 @@
 {
   "maintenance": false,
-  "version": "1.1",
-  "message": "🔥 Update tema merah!",
+  "version": "1.3",
+  "message": "⋮ Menu tambahan aktif",
   "mode": "dark",
 
   "theme": {
@@ -20,6 +20,7 @@
   },
 
   "features": {
-    "themeToggle": true
+    "themeToggle": true,
+    "moreMenu": true
   }
 }
