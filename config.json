@@ -1,16 +1,15 @@
-
 {
   "maintenance": false,
-  "version": "1.4",
-  "message": "✅ Game telah dibuka",
+  "version": "1.2",
+  "message": "✅ Game telah dibuka, selamat bermain 🎮",
   "mode": "dark",
 
   "theme": {
     "dark": {
-      "primary": "#22c55e",
-      "secondary": "#16a34a",
-      "background": "#020617",
-      "accent": "#4ade80"
+      "primary": "#ef4444",
+      "secondary": "#b91c1c",
+      "background": "#0f0f0f",
+      "accent": "#f87171"
     }
   }
 }
