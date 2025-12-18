@@ -1,5 +1,29 @@
 {
   "maintenance": false,
+  "version": "1.1",
+  "message": "🔥 Update tema merah!",
+  "mode": "dark",
+
+  "theme": {
+    "dark": {
+      "primary": "#ef4444",
+      "secondary": "#b91c1c",
+      "background": "#0f0f0f",
+      "accent": "#f87171"
+    },
+    "light": {
+      "primary": "#dc2626",
+      "secondary": "#f87171",
+      "background": "#fff1f2",
+      "accent": "#991b1b"
+    }
+  },
+
+  "features": {
+    "themeToggle": true
+  }
+}{
+  "maintenance": false,
   "version": "1.0",
   "message": "🚀 Sistem baru siap",
   "mode": "dark",
