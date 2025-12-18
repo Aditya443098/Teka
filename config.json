@@ -1,7 +1,7 @@
 {
-  "maintenance": false,
-  "version": "1.3",
-  "message": "⋮ Menu tambahan aktif",
+  "maintenance": true,
+  "version": "1.2",
+  "message": "🚧 Game sedang update, coba lagi nanti ya",
   "mode": "dark",
 
   "theme": {
@@ -10,17 +10,6 @@
       "secondary": "#b91c1c",
       "background": "#0f0f0f",
       "accent": "#f87171"
-    },
-    "light": {
-      "primary": "#dc2626",
-      "secondary": "#f87171",
-      "background": "#fff1f2",
-      "accent": "#991b1b"
     }
-  },
-
-  "features": {
-    "themeToggle": true,
-    "moreMenu": true
   }
 }
