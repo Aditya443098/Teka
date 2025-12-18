@@ -1,7 +1,8 @@
+
 {
   "maintenance": false,
-  "version": "1.3",
-  "message": "✅ Game telah dibuka, selamat bermain 🎮",
+  "version": "1.4",
+  "message": "✅ Game telah dibuka",
   "mode": "dark",
 
   "theme": {
